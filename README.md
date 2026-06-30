@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=B+KAILAASH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data+Analyst+%7C+Data+Engineer+%7C+Researcher+%7C+Builder&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=B+KAILAASH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data+%26+AI+Engineer+%7C+RAG+%2F+Agentic+Systems+Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ class Kailaash:
 
     currently_learning = [
         "Databricks + Spark",
-        "RAG & Agentic AI (Gemini / Groq)",
+        "Advanced Agentic AI Architectures",
         "MERN Stack",
         "AWS Cloud Fundamentals"
     ]
@@ -162,8 +162,13 @@ class Kailaash:
 
 | Project | Stack | Highlights |
 |---|---|---|
+
+| Market Entry Analyzer — Agentic RAG Platform | Python, FastAPI, Groq, ChromaDB, Streamlit | 5-step agentic pipeline combining PDF retrieval, live news, and web search; AI-generated opportunity scoring; PDF report export; [Live Repo](https://github.com/kailaash04/market-entry-analyzer) |
+
 | [**Trust Chain**](https://github.com/kailaash04) — Digital Supply Chain Analytics | `SQL` `Python` `Blockchain` | 🏅 Runner-Up Best Paper · Springer ICMLBDA 2025; 25% faster queries; 100% audit transparency; IEEE published |
+
 | [**AI Fantasy Sports Prediction Platform**](https://github.com/kailaash04) | `Python` `Scikit-learn` `Power BI` | 🏆 Top 20 / 1,000+ teams · Dream11 Gameathon; +15% prediction accuracy; +20% model robustness; 10+ KPI dashboards |
+
 | [**Automated Quality Control System**](https://github.com/kailaash04) | `Python` `YOLOv8` `Excel` | 95% defect classification accuracy; 40% reduction in manual inspection time; 60% faster reporting |
 
 </div>
@@ -192,7 +197,7 @@ class Kailaash:
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.E. Computer Science & Engineering | Rajalakshmi Engineering College, Chennai | 2022 – 2026 | 7.01 CGPA |
+| B.E. Computer Science & Engineering | Rajalakshmi Engineering College, Chennai | 2022 – 2026 | 7.10 CGPA |
 | Class XI — Higher Secondary | St. Savio Mat. Hr. Sec. School, Chennai | 2021 – 2022 | — |
 
 </div>
@@ -203,8 +208,7 @@ class Kailaash:
 📚 Currently Learning
 ──────────────────────────────────────────────────────────
 🧱 Databricks        → Apache Spark, Delta Lake, Certified Data Engineer Associate
-🤖 RAG & Agentic AI  → Gemini API, Groq, LangChain, vector stores
-🌐 MERN Stack        → MongoDB Atlas, Express, React, Node.js (PricePatrol project)
+🤖 Agentic AI Systems → Multi-agent orchestration, LangGraph, advanced tool-calling
 ☁️  Cloud Fundamentals → AWS S3, IAM, basics of cloud data pipelines
 📊 Advanced SQL      → Window functions, query optimisation, CTEs
 ──────────────────────────────────────────────────────────
