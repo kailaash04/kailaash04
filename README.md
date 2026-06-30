@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kailaash+%F0%9F%91%8B;Data+Analyst+%7C+Engineer+%7C+Researcher;Springer+%26+IEEE+Published+Author+%F0%9F%93%84;Top+20+%40+Dream11+Gameathon+%F0%9F%8F%86;Building+with+Data+%E2%80%94+One+Pipeline+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kailaash+%F0%9F%91%8B;Data+%26+AI+Engineer+%F0%9F%9A%80;RAG+%2F+Agentic+Systems+Enthusiast+%F0%9F%A4%96;Springer+%26+IEEE+Published+Author+%F0%9F%93%84;Top+20+%40+Dream11+Gameathon+%F0%9F%8F%86;Building+with+Data+%E2%80%94+One+Pipeline+at+a+Time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ class Kailaash:
     stack       = [
         "Python", "SQL", "Power BI",
         "Tableau", "Snowflake", "Scikit-learn",
-        "YOLOv8", "MongoDB", "Git"
+        "MongoDB", "Git"
     ]
 
     currently_learning = [
@@ -73,7 +73,6 @@ class Kailaash:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
 **BI & Visualization**
 
@@ -125,9 +124,6 @@ class Kailaash:
 
 ---
 
-
----
-
 ## 💼 Work & Research Experience
 
 <details>
@@ -162,14 +158,10 @@ class Kailaash:
 
 | Project | Stack | Highlights |
 |---|---|---|
-
 | Market Entry Analyzer — Agentic RAG Platform | Python, FastAPI, Groq, ChromaDB, Streamlit | 5-step agentic pipeline combining PDF retrieval, live news, and web search; AI-generated opportunity scoring; PDF report export; [Live Repo](https://github.com/kailaash04/market-entry-analyzer) |
-
 | [**Trust Chain**](https://github.com/kailaash04) — Digital Supply Chain Analytics | `SQL` `Python` `Blockchain` | 🏅 Runner-Up Best Paper · Springer ICMLBDA 2025; 25% faster queries; 100% audit transparency; IEEE published |
-
 | [**AI Fantasy Sports Prediction Platform**](https://github.com/kailaash04) | `Python` `Scikit-learn` `Power BI` | 🏆 Top 20 / 1,000+ teams · Dream11 Gameathon; +15% prediction accuracy; +20% model robustness; 10+ KPI dashboards |
-
-| [**Automated Quality Control System**](https://github.com/kailaash04) | `Python` `YOLOv8` `Excel` | 95% defect classification accuracy; 40% reduction in manual inspection time; 60% faster reporting |
+| [**E-Commerce Customer Segmentation & Analytics**](https://github.com/kailaash04) — Capstone Project | `Python` `Tableau` `Streamlit` | K-Means clustering on 500K+ customer records → 5 behavioral cohorts; Random Forest churn classifier at 88% accuracy; interactive Streamlit app for no-code exploration |
 
 </div>
 
@@ -185,13 +177,13 @@ class Kailaash:
 | 📄 | Dual-Published Researcher | Springer ICMLBDA 2025 & IEEE ICIETSD — intelligent supply chain systems |
 | 🏆 | Top 20 — Dream11 Sports Data Gameathon | Ranked in the top 20 among 1,000+ competing teams nationwide |
 | 🥇 | NPTEL Gold Medal — Entrepreneurship | Top performer in national online certification |
-| 📊 | Data Science & AI Certified | Boston Institute of Analytics |
+| 📊 | Data Science & AI Certified | Boston Institute of Analytics (6-month professional program) |
 
 </div>
 
 ---
 
-## 🎓 Education & Currently Learning
+## 🎓 Education
 
 <div align="center">
 
@@ -202,17 +194,18 @@ class Kailaash:
 
 </div>
 
-<br/>
+---
 
-```
-📚 Currently Learning
-──────────────────────────────────────────────────────────
-🧱 Databricks        → Apache Spark, Delta Lake, Certified Data Engineer Associate
-🤖 Agentic AI Systems → Multi-agent orchestration, LangGraph, advanced tool-calling
-☁️  Cloud Fundamentals → AWS S3, IAM, basics of cloud data pipelines
-📊 Advanced SQL      → Window functions, query optimisation, CTEs
-──────────────────────────────────────────────────────────
-```
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-6f42c1?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced_SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
